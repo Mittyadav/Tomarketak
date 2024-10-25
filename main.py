@@ -138,13 +138,12 @@ def main():
 def start():
     print(r"""
 ╔════════════ ⋆ TOMARKET BOT ⋆ ═════════════╗
-║              Bot Automation               ║
-║         Developed by @Airdrop_XID         ║
-║     Join here : https://t.me/UxScript     ║
+║              Bot Automation                   ║
+║         Developed by @iamak_roy               ║
+║     Join here : https://t.me/scripthub00      ║
 ╚═══════════════════════════════════════════╝
-Donate here : Binance Id : 710691663
-              Dana/gopay : +62 851-7113-2802
-              
+                  dark life 
+                          
           select this one :
         1. claim daily
         2. generate token
